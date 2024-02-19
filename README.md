@@ -1,5 +1,10 @@
 # BigQuery_Machine_Learning_Project
 
+## Collaborators
+
+- Kashif Muneer (SUNet ID: 2021-CE-34)
+- Mehmood Ul Haq (SUNet ID: 2021-CE-35)
+
 # London Fire Brigade Incident Group Prediction
 
 This project aims to develop a machine learning model to predict incident groups based on data from the London Fire Brigade service calls. By leveraging a Gradient Boosting Classifier, the model categorizes incidents into different groups, facilitating more efficient resource allocation and incident response management within the London Fire Brigade.
@@ -64,7 +69,5 @@ Predictive models can assist in anticipating incident types and response times, 
 **Concluding Remarks:**  
 The analysis and prediction serve as valuable tools for enhancing decision-making within the Fire Brigade.
 
-## Collaborators
 
-- Kashif Muneer (SUNet ID: 2021-CE-34)
-- Mehmood Ul Haq (SUNet ID: 2021-CE-35)
+- For issues or feedback, please contact me at mehmodulhaq1040@gmail.com...
