@@ -1,9 +1,5 @@
 # BigQuery_Machine_Learning_Project
 
-## Collaborators
-
-- Kashif Muneer (SUNet ID: 2021-CE-34)
-- Mehmood Ul Haq (SUNet ID: 2021-CE-35)
 
 # London Fire Brigade Incident Group Prediction
 
@@ -11,6 +7,7 @@ This project aims to develop a machine learning model to predict incident groups
 
 ## Table of Contents
 
+- [Collaborators](#collaborators)
 - [Overview](#overview)
 - [Project Description](#project-description)
 - [Programming Language](#programming-language)
@@ -20,7 +17,11 @@ This project aims to develop a machine learning model to predict incident groups
 - [Data Exploration](#data-exploration)
 - [Data Prediction](#data-prediction)
 - [Conclusion](#conclusion)
-- [Collaborators](#collaborators)
+
+## Collaborators
+
+- Kashif Muneer (SUNet ID: 2021-CE-34)
+- Mehmood Ul Haq (SUNet ID: 2021-CE-35)
 
 ## Overview
 
